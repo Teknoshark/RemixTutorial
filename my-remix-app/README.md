@@ -4,7 +4,12 @@
 
 ## Development
 
-From your terminal:
+### Windows 11 22H2+
+```sh
+npm run dev -- --host 0.0.0.0
+```
+### unix based: 
+from your terminal:
 
 ```sh
 npm run dev
